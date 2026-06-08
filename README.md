@@ -1,4 +1,4 @@
-```md
+
 <img align="right" alt="Coding" width="320" src="https://github.com/Shreyashkhandar.png">
 
 # Hi there, I'm Shreyash Khandar!
@@ -83,5 +83,5 @@ A lightweight Python-based tool for password security analysis.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Shreyashkhandar&icon=0&color=0)](https://visitcount.itsvg.in)
-```
+
 
