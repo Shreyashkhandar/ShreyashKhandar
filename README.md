@@ -9,11 +9,7 @@ I'm a **Computer Science student** passionate about building **full stack web ap
 
 ## About Me
 
--- Computer Science student, always learning and exploring  
--- Building full stack web applications and mobile experiences  
--- Interested in scalable systems, clean UI, and modern development  
--- Exploring backend architectures, APIs, and cross-platform applications  
-
+Computer Science student passionate about full stack development, mobile applications, scalable systems, and modern software engineering.
 ---
 
 ## Tech Stack
