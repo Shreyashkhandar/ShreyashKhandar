@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="320" src="https://github.com/Shreyashkhandar.png">
+
 
 # Hi there, I'm Shreyash Khandar!
 
